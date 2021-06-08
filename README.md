@@ -1,6 +1,7 @@
 # HeartFlow_ProgrammingExercise
 
 Given Data: .txt file with coordinates of 2D line segments (x1 y1 x2 y2)
+Question: How many groups of line segments exist in the data?
 
 Assumptions:
 
